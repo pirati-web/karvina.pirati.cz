@@ -1,0 +1,1 @@
+# karvina.pirati.cz
