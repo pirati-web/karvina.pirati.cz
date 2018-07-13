@@ -9,8 +9,8 @@
 title: Pirátská strana | KARVINÁ
 email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Web místního sdružení České pirátské strany na Opavsku.
-url: "https://opava.pirati.cz" # the base hostname & protocol for your site
+  Web místního sdružení České pirátské strany na Karvinsku.
+url: "https://karvina.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
